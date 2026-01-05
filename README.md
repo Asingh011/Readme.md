@@ -47,3 +47,37 @@ The dashboard enables stakeholders and decision-makers to analyze **premium tren
 │── dashboard_preview.png
 │── stakeholder_insurance_data.csv
 │── README.md
+
+
+
+---
+
+## 🖼️ Dashboard Preview
+https://public.tableau.com/views/StakeholderinsightsPerformanceDashboard/StakeholderInsightsPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
+## 🔍 Insights Generated
+- Identified top-performing insurers by value creation
+- Revealed cities with highest profitability concentration
+- Highlighted optimal policy tenure ranges
+- Demonstrated efficiency trade-offs using cost ratio analysis
+
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` file
+2. Open using **Tableau Desktop / Tableau Public**
+3. Interact with filters and explore insights
+
+---
+
+## 📌 Author
+**Aman Singh**  
+Business Development Manager | Aspiring Data Analyst  
+📧 Email: singh.aman26042021@gmail.com  
+🔗 LinkedIn: *(https://www.linkedin.com/in/aman-singh-1a9942150/)*
+
+---
+
+⭐ If you like this project, feel free to star the repository!
